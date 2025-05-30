@@ -1,6 +1,6 @@
 [To buy]
  [o] Open Source
- [ ] Data Structure Clean coding
+ [ ] Data Structure Clean coding OS
  [ ] Operation System
 [In progress]
  [ ] Clean coding
