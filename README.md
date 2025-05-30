@@ -1,18 +1,18 @@
-### 5조 역할편성
-- 팀 리더 : 이희정
-- 기획자 : 이원석
-- 개발자 A : 조성하
-
 # book-tracking
 이 리포지토리는 **순수 텍스트**(`book_list.txt`)와  
 **Markdown**(`README.md`)만으로  
 GitHub 협업 워크플로우(이슈 → PR → 태그)를 연습하기 위해 만들어졌습니다.
 
-## 사용 방법
+## 5조 역할편성
+- 팀 리더 : 이희정
+- 기획자 : 이원석
+- 개발자 A : 조성하
+
+## 이슈 워크플로우
 1. book_list.txt 수정 → 커밋  
 2. PR 생성 → 리뷰 → 머지  
 3. milestone, label 확인  
-4. 완료되면 book_list.txt에서 [ ] → [x] 로 변경
+4. 완료되면 book_list.txt에서 [ ] → [O] 로 변경
 
 ## Milestone
 - 마일스톤1 : 도서 구매
