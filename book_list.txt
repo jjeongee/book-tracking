@@ -1,6 +1,6 @@
 [To buy]
  [o] Open Source
- [o] Data book
+ [o] Data bookqqqqqq
  [ ] Operation System
 [In progress]
  [ ] Clean coding
